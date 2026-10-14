@@ -1,0 +1,5 @@
+# Q1. Methodology & Implementation Approach
+
+I prepared an evidence-first workbench based on the supplied scope: proposed rules of engagement, an empty structured review dossier, a findings report, and verification guidance. The proposed workflow requires predefining the targeted policy criterion, recording only authorized and sanitized evidence, classifying outcomes against that criterion, and recommending mitigations only for independently confirmed bypasses.
+
+This work is preparation, not campaign execution. No named staging target or written rules of engagement were provided, so I did not test a deployed assistant, create attack transcripts, classify actual outcomes, or claim mitigations. Before any live evaluation, the system owner must approve the exact target, time window, allowed personas/categories, prohibitions, data and rate limits, and stop/escalation conditions in writing. Until then, only a disconnected local synthetic harness using benign data is within the proposed safe default.
