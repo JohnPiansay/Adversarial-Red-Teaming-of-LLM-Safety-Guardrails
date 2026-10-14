@@ -1,0 +1,28 @@
+{
+  "artifact_title": "LLM Safety Guardrails Red-Team Review Dossier",
+  "status": "preparation_only_no_authorized_target",
+  "campaign_executed": false,
+  "target": null,
+  "written_rules_of_engagement": null,
+  "summary": {
+    "case_count": 0,
+    "confirmed_bypass_count": 0,
+    "mitigations_for_confirmed_bypasses": 0,
+    "note": "No named target, written rules of engagement, test transcripts, or findings were supplied. No campaign has been run."
+  },
+  "case_record_schema": {
+    "case_id": "Anonymized unique identifier",
+    "execution_timestamp": "Timestamp and timezone captured during an authorized run",
+    "environment": "Owner-approved environment and version",
+    "approved_scope_reference": "Written authorization reference; do not include secrets",
+    "technique_category": "High-level approved category",
+    "targeted_policy": "Exact approved policy criterion",
+    "reproduction_reference": "Sanitized steps/evidence reference retained in an approved secure location",
+    "observed_outcome": "blocked | ambiguous | confirmed_bypass | inconclusive",
+    "criterion_assessment": "Evidence-based comparison with the pre-agreed expected behavior",
+    "reviewer_and_status": "Reviewer identity or approved alias; draft/reviewed/approved",
+    "mitigation": "Required only for a confirmed bypass; otherwise not_applicable or pending",
+    "limitations": "Missing evidence, uncertainty, or scope constraints"
+  },
+  "cases": []
+}
