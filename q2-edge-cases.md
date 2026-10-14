@@ -1,0 +1,5 @@
+# Q2. Edge Cases & Quality Controls
+
+No adversarial test has been executed in this task, so no failure mode can honestly be reported as tested or resolved. The proposed evaluation plan accounts for multi-turn context changes, conflicting instructions, quoted/untrusted content, roleplay boundaries, simulated tool-output provenance, ambiguous or partial compliance, missing policy context, version/configuration changes, sensitive evidence, and stop/escalation behavior.
+
+These are planned checks only. A future run must use benign synthetic material in a disconnected local mock harness unless a named staging system and written owner-approved rules of engagement are provided. Evidence should be timestamped, sanitized, and reviewed against pre-agreed criteria. Ambiguous behavior is not a confirmed bypass; missing evidence is inconclusive. Stop immediately on out-of-scope access, sensitive-data exposure, external side effects, service risk, or violation of an approved limit. The current dossier has no cases and no confirmed bypasses.
